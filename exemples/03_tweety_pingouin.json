@@ -1,0 +1,13 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "Tweety le pingouin (exception)",
+  "description": "Le défaut « les oiseaux volent » est bloqué par la connaissance certaine Pingouin -> ~Vole.",
+  "W": [
+    "Pingouin(tweety)",
+    "Pingouin(tweety) -> Oiseau(tweety)",
+    "Pingouin(tweety) -> ~Vole(tweety)"
+  ],
+  "D": [
+    "Oiseau(tweety) : Vole(tweety) / Vole(tweety)"
+  ]
+}

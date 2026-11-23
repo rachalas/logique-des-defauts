@@ -1,0 +1,11 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "Justification incohérente (avertissement)",
+  "description": "L'ajout du défaut déclenche l'avertissement ; il n'est jamais appliqué.",
+  "W": [
+    "a"
+  ],
+  "D": [
+    "a : x & ~x / x"
+  ]
+}

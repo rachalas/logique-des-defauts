@@ -1,0 +1,14 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "Test des prédicats",
+  "description": "Vérifie que P(x), Q(y), R(karim), S(karim) sont lus et distingués",
+  "W": [
+    "P(x)",
+    "Q(y)",
+    "P(x) -> R(karim)",
+    "karim"
+  ],
+  "D": [
+    "P(x) : Q(y) / S(karim)"
+  ]
+}

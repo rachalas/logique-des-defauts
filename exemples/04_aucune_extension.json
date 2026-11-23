@@ -1,0 +1,9 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "Théorie sans extension",
+  "description": "Le défaut  : p / ~p  se contredit lui-même : aucune extension.",
+  "W": [],
+  "D": [
+    ": p / ~p"
+  ]
+}

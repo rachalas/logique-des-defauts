@@ -1,0 +1,14 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "",
+  "description": "",
+  "W": [
+    "S(pi)",
+    "H(pa)",
+    "S(pi) -> H(pi)"
+  ],
+  "D": [
+    "H(pi) : C(pi) / C(pi)",
+    "S(pi) : ~C(pi) / ~C(pi)"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "4 extensions (2 conflits independants)",
+  "description": "Deux paires de defauts en conflit mutuel sur p et sur q : 2x2 = 4 extensions",
+  "W": ["a", "b"],
+  "D": [
+    "a : p / p",
+    "a : ~p / ~p",
+    "b : q / q",
+    "b : ~q / ~q"
+  ]
+}

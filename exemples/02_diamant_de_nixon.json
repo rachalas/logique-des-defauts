@@ -1,0 +1,13 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "Diamant de Nixon (2 extensions)",
+  "description": "Quaker et Républicain : deux extensions contradictoires ; ni Pacifiste ni ¬Pacifiste n'est sceptique.",
+  "W": [
+    "Quaker(nixon)",
+    "Republicain(nixon)"
+  ],
+  "D": [
+    "Quaker(nixon) : Pacifiste(nixon) / Pacifiste(nixon)",
+    "Republicain(nixon) : ~Pacifiste(nixon) / ~Pacifiste(nixon)"
+  ]
+}

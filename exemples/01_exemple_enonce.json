@@ -1,0 +1,14 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "Exemple de l'énoncé (1 extension)",
+  "description": "Résultat attendu : 1 extension, littéraux o, v, ¬p (d2 jamais appliqué).",
+  "W": [
+    "o",
+    "p -> o",
+    "p -> ~v"
+  ],
+  "D": [
+    "o : v / v",
+    "a : c / b"
+  ]
+}

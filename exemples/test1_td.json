@@ -1,0 +1,12 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "",
+  "description": "",
+  "W": [
+    "~A"
+  ],
+  "D": [
+    "A : B / C",
+    "A : ~C / D"
+  ]
+}

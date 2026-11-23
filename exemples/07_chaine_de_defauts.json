@@ -1,0 +1,13 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "Chaîne de défauts",
+  "description": "a ⟹ b ⟹ c, puis ¬d : une seule extension.",
+  "W": [
+    "a"
+  ],
+  "D": [
+    "a : b / b",
+    "b : c / c",
+    "c : ~d / ~d"
+  ]
+}

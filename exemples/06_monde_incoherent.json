@@ -1,0 +1,13 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "W incohérent (formules en rouge)",
+  "description": "Utiliser « Vérifier la cohérence de W » : {p, ¬p} est le sous-ensemble incohérent minimal.",
+  "W": [
+    "p",
+    "~p",
+    "q"
+  ],
+  "D": [
+    "p : r / r"
+  ]
+}

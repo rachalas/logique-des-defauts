@@ -1,0 +1,10 @@
+{
+  "format": "logique-des-defauts-v1",
+  "nom": "Prérequis vide (2 extensions)",
+  "description": "Deux défauts sans prérequis aux conséquents opposés.",
+  "W": [],
+  "D": [
+    ": b / b",
+    ": ~b / ~b"
+  ]
+}
